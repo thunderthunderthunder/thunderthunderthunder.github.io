@@ -8,6 +8,7 @@ photos:
 - http://ww3.sinaimg.cn/mw690/81b78497jw1emfgwjrh2pj21hc0u01g3.jpg
 - http://ww2.sinaimg.cn/mw690/81b78497jw1emfgwil5xkj21hc0u0tpm.jpg
 - http://ww3.sinaimg.cn/mw690/81b78497jw1emfgvcdn25j21hc0u0qpa.jpg
+- https://thunderthunderthunder.github.io/assets/favicon.ico
 tags:
 - consectetur
 description: Gallery Post Test. 测试图片类文章的显示。
