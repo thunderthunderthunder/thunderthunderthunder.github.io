@@ -98,7 +98,8 @@ final boolean isOnSyncQueue(Node node) {
         //在AQS的等待队列中，有资格去获取锁
         if (node.next != null) // If has successor, it must be on queue
             return true;
-        return findNodeFromTail(node);
+        //对AQS的等待队列，从尾开始找，是否该node在该队列中
+        return findNodeFromTail(node);
     }
 ```
 ## signal流程
